@@ -1,0 +1,2 @@
+export ML_PATH="$HOME/ml"
+mkdir -p$ML_PATH
